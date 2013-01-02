@@ -250,7 +250,7 @@ $app_name = idx($app_info, 'name', '');
 
     <section id="get-started">
       <p>This is my app, I can edit it all I want.</p>
-	  <p>Проверяем русский.</p>
+	 
       <a href="https://devcenter.heroku.com/articles/facebook" target="_top" class="button">Learn How to Edit This App</a>
     </section>
 
