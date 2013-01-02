@@ -242,14 +242,14 @@ $app_name = idx($app_info, 'name', '');
       </div>
       <?php } else { ?>
       <div>
-        <h1>Welcome</h1>
+        <h3>Welcome</h3>
         <div class="fb-login-button" data-scope="user_likes,user_photos"></div>
       </div>
       <?php } ?>
     </header>
 
     <section id="get-started">
-      <p>Welcome to your Facebook app, running on <span>heroku</span>!</p>
+      <p>This is my app, I can edit it all I want.</p>
       <a href="https://devcenter.heroku.com/articles/facebook" target="_top" class="button">Learn How to Edit This App</a>
     </section>
 
